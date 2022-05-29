@@ -2,8 +2,10 @@
 
 ![NotepadFont](NotepadFont.png)
 <br><br>
+
 NotepadFont is a clean, nice and simple typeface.
 <br><br><br>
+
 It comes with two different versions, between the two, only a size ratio.
 - NotepadFont is 2MB and contains 10k characters, easily integrated into a portable program.
 - NotepadFont_full is 22MB and contains 40K characters, intended to be installed on the system
@@ -25,6 +27,7 @@ Height: 50
 Capital Height: 1400  
 x Height: 1000  
 <br>
+
 ## Related projects:
 
 JuliaMono:  
