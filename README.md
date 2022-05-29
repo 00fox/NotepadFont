@@ -2,6 +2,9 @@
 
 ![NotepadFont](NotepadFont.png)
 
+
+
+
 NotepadFont is a clean, nice and simple typeface.
 
 It comes with two different versions, between the two, only a size ratio.
@@ -13,16 +16,27 @@ Both are seen for the same on a system, so you can replace one with the other wi
 ![NotepadFont](NotepadFont_Example.png)
 
 TrueType
+
 400 Regular
+
 Monospace
+
 Extra Condensed
+
 Installable Font
+
 Ascent: 1600 (Win 2000) (Typo 1900)
+
 Descent: 400 (Typo -300)
+
 Em Size: 2000
+
 Underline Position: -125
+
 Height: 50
+
 Capital Height: 1400
+
 x Height: 1000
 
 ## Related projects:
