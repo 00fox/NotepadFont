@@ -19,7 +19,7 @@ TrueType
 Monospace  
 Extra Condensed  
 Installable Font  
-Ascent: 1600 (Win 2000) (Typo 1900)  
+Ascent: 1600 (Typo 1900)  
 Descent: 400 (Typo -300)  
 Em Size: 2000  
 Underline Position: -125  
