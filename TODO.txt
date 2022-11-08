@@ -1,3 +1,9 @@
 Invert
 U+00fe
 U+00de
+
+Greater or equal
+U+2265
+
+symetry inverted question mark
+U+00bf
